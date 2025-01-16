@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Admi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranatpattankude&show_icons=true&locale=en" alt="pranatpattankude" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PranatPattankude&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PranatPattankude&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
 
 ## ⚡ Fun Fact
 
