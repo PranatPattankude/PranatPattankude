@@ -37,11 +37,14 @@ Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Admi
 - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/56d7cbab-da18-4a39-a854-4748a8fdf69f/public_url)
 
 
+
+## 📊 Activity
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranatpattankude&show_icons=true&locale=en&layout=compact" alt="pranatpattankude" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranatpattankude&show_icons=true&locale=en" alt="pranatpattankude" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranatpattankude&" alt="pranatpattankude" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PranatPattankude&" alt="pranatpattankude" /></p>
 
 ## ⚡ Fun Fact
 
