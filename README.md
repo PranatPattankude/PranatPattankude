@@ -29,7 +29,8 @@ Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Admi
 
 ## 🌟 AWS Certifications
 
-[![AWS Certified Developer – Associate](https://www.credly.com/badges/56d7cbab-da18-4a39-a854-4748a8fdf69f/public_url)](https://www.credly.com/badges/56d7cbab-da18-4a39-a854-4748a8fdf69f/public_url)
+- [AWS Academy Graduate - AWS Academy Cloud Architecting](https://www.credly.com/badges/31b63962-138d-4be1-a0c9-9e71a171faf3/public_url)
+- [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/56d7cbab-da18-4a39-a854-4748a8fdf69f/public_url)
 
 ## ⚡ Fun Fact
 
