@@ -5,25 +5,25 @@ Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Admi
 ## 🛠️ Skills
 
 - **Cloud Computing**: 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Amazon_Web_Services_Logo.svg" width="10" height="10" /> AWS, <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Azure_Logo_2014.png" width="10" height="10" /> Azure
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Amazon_Web_Services_Logo.svg" width="180" height="180" /> AWS, <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Azure_Logo_2014.png" width="180" height="180" /> Azure
   
 - **DevOps Tools**: 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_logo.png" width="10" height="10" /> Docker, <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="10" height="10" /> Kubernetes, <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Jenkins_logo.svg" width="10" height="10" /> Jenkins, <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Terraform_Logo.png" width="10" height="10" /> Terraform, <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ansible_Logo.png" width="10" height="10" /> Ansible
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_logo.png" width="180" height="180" /> Docker, <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="180" height="180" /> Kubernetes, <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Jenkins_logo.svg" width="180" height="180" /> Jenkins, <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Terraform_Logo.png" width="180" height="180" /> Terraform, <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ansible_Logo.png" width="180" height="180" /> Ansible
 
 - **Programming**: 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="10" height="10" /> Python, Bash, Shell Scripting
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="180" height="180" /> Python, Bash, Shell Scripting
   
 - **Version Control**: 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg" width="10" height="10" /> Git, <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="10" height="10" /> GitHub
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg" width="180" height="180" /> Git, <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="180" height="180" /> GitHub
 
 - **Web Development**: 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/HTML5_logo.svg" width="10" height="10" /> HTML
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/HTML5_logo.svg" width="180" height="180" /> HTML
 
 - **System Administration**: 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="10" height="10" /> Linux (Ubuntu, CentOS, RHEL)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="180" height="180" /> Linux (Ubuntu, CentOS, RHEL)
 
 - **CI/CD**: 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Jenkins_logo.svg" width="10" height="10" /> Jenkins, GitLab CI
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Jenkins_logo.svg" width="180" height="180" /> Jenkins, GitLab CI
   
 - **Networking**: 
   CCNA concepts, Load Balancing
@@ -53,8 +53,8 @@ Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Admi
 
 ## 🌟 AWS Certifications
 
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/31b63962-138d-4be1-a0c9-9e71a171faf3/public_url)
-- [AWS Certified Developer – Associate](https://www.credly.com/badges/56d7cbab-da18-4a39-a854-4748a8fdf69f/public_url)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56d7cbab-da18-4a39-a854-4748a8fdf69f" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## ⚡ Fun Fact
 
