@@ -1,47 +1,29 @@
-<!--
-## Hi there 👋
-
-
-**PranatPattankude/PranatPattankude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Pranat 👋
-<!--
+
 Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Administrator**, and **DevOps Engineer** with expertise in AWS, Linux, Python, Terraform, Docker, Kubernetes, and more. I enjoy solving complex problems, automating processes, and building scalable systems.
 
 ## 🛠️ Skills
 
 - **Cloud Computing**: 
-  ![AWS](https://upload.wikimedia.org/wikipedia/commons/6/64/Amazon_Web_Services_Logo.svg) AWS, ![Azure](https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Azure_Logo_2014.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Amazon_Web_Services_Logo.svg" width="180" height="180" /> AWS, <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Azure_Logo_2014.png" width="180" height="180" /> Azure
   
 - **DevOps Tools**: 
-  ![Docker](https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_logo.png) Docker, ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg), ![Jenkins](https://upload.wikimedia.org/wikipedia/commons/f/f7/Jenkins_logo.svg), ![Terraform](https://upload.wikimedia.org/wikipedia/commons/7/7e/Terraform_Logo.png), ![Ansible](https://upload.wikimedia.org/wikipedia/commons/7/76/Ansible_Logo.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_logo.png" width="180" height="180" /> Docker, <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="180" height="180" /> Kubernetes, <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Jenkins_logo.svg" width="180" height="180" /> Jenkins, <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Terraform_Logo.png" width="180" height="180" /> Terraform, <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ansible_Logo.png" width="180" height="180" /> Ansible
 
 - **Programming**: 
-  ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python, Bash, Shell Scripting
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="180" height="180" /> Python, Bash, Shell Scripting
   
 - **Version Control**: 
-  ![Git](https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg), ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg" width="180" height="180" /> Git, <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="180" height="180" /> GitHub
 
 - **Web Development**: 
-  ![HTML](https://upload.wikimedia.org/wikipedia/commons/3/37/HTML5_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/HTML5_logo.svg" width="180" height="180" /> HTML
 
 - **System Administration**: 
-  ![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg) Linux (Ubuntu, CentOS, RHEL)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="180" height="180" /> Linux (Ubuntu, CentOS, RHEL)
 
 - **CI/CD**: 
-  ![Jenkins](https://upload.wikimedia.org/wikipedia/commons/f/f7/Jenkins_logo.svg), GitLab CI
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Jenkins_logo.svg" width="180" height="180" /> Jenkins, GitLab CI
   
 - **Networking**: 
   CCNA concepts, Load Balancing
@@ -79,7 +61,5 @@ Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Admi
 I love exploring new technologies and am always looking to improve my skills. In my free time, I enjoy traveling and browsing the web to stay updated with tech trends!
 
 ---
--->
+
 > "The best way to predict the future is to create it." – **Abraham Lincoln**
-
-
