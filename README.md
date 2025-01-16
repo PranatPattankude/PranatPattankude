@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Admi
 ## 🛠️ Skills
  
   <img src="[https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_Web_Services_Logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.inspireuplift.com%2FAws-Logo-Amazon-Web-Services-Logo-%2Fiu%2F11839233&psig=AOvVaw2UovH9vbHj2w3LiEBMNCTQ&ust=1737121815454000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDa25yx-ooDFQAAAAAdAAAAABAJ)" width="50" height="50" /> AWS, 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Azure_Logo_2014.png" width="50" height="50" /> Azure
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Azure_Logo_2014.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/New-azure-logo-square.png/640px-New-azure-logo-square.png)" width="50" height="50" /> Azure
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_logo.png" width="50" height="50" /> Docker, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="50" height="50" /> Kubernetes, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Terraform_Logo.png" width="50" height="50" /> Terraform, 
