@@ -53,8 +53,7 @@ Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Admi
 
 ## 🌟 AWS Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56d7cbab-da18-4a39-a854-4748a8fdf69f" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AWS Certified Developer – Associate](https://www.credly.com/badges/56d7cbab-da18-4a39-a854-4748a8fdf69f/public_url)](https://www.credly.com/badges/56d7cbab-da18-4a39-a854-4748a8fdf69f/public_url)
 
 ## ⚡ Fun Fact
 
@@ -63,3 +62,4 @@ I love exploring new technologies and am always looking to improve my skills. In
 ---
 
 > "The best way to predict the future is to create it." – **Abraham Lincoln**
+
