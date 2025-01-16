@@ -3,31 +3,18 @@
 Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Administrator**, and **DevOps Engineer** with expertise in AWS, Linux, Python, Terraform, Docker, Kubernetes, and more. I enjoy solving complex problems, automating processes, and building scalable systems.
 
 ## 🛠️ Skills
-
-- **Cloud Computing**: 
+ 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_Web_Services_Logo.svg" width="50" height="50" /> AWS, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Azure_Logo_2014.png" width="50" height="50" /> Azure
-  
-- **DevOps Tools**: 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_logo.png" width="50" height="50" /> Docker, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="50" height="50" /> Kubernetes, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Terraform_Logo.png" width="50" height="50" /> Terraform, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ansible_logo.svg" width="50" height="50" /> Ansible
-
-- **Programming**: 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" /> Python, Bash, Shell Scripting
-  
-- **Version Control**: 
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Git-logo.svg" width="50" height="50" /> Git, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50" /> GitHub
-
-- **Web Development**: 
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo.svg" width="50" height="50" /> HTML
-
-- **System Administration**: 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50" height="50" /> Linux (Ubuntu, CentOS, RHEL)
-
-- **CI/CD**: 
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Jenkins_logo.svg" width="50" height="50" /> Jenkins, 
   GitLab CI
   
