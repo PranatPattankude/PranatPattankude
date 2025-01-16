@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Pranat 👋
-
+<!--
 Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Administrator**, and **DevOps Engineer** with expertise in AWS, Linux, Python, Terraform, Docker, Kubernetes, and more. I enjoy solving complex problems, automating processes, and building scalable systems.
 
 ## 🛠️ Skills
@@ -79,7 +79,7 @@ Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Admi
 I love exploring new technologies and am always looking to improve my skills. In my free time, I enjoy traveling and browsing the web to stay updated with tech trends!
 
 ---
-
+-->
 > "The best way to predict the future is to create it." – **Abraham Lincoln**
 
 
