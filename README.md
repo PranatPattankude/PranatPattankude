@@ -27,9 +27,9 @@ Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Admi
 
 ## 📫 How to Reach Me
 
-- Email: pranat@example.com
-- LinkedIn: [Pranat's LinkedIn](https://www.linkedin.com/in/pranat)
-- Twitter: [@PranatTweets](https://twitter.com/PranatTweets)
+- Email: pranatpattankude@gmail.com
+- LinkedIn: [Pranat's LinkedIn](https://www.linkedin.com/in/pranatpattankude)
+- Twitter: [@PranatTweets](https://twitter.com/pranatpattankud)
 
 ## 🌟 AWS Certifications
 
