@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Admi
 - **CI/CD Pipeline Setup**: [Project Link](#)
   - Built a complete CI/CD pipeline using Jenkins, Git, Docker, Kubernetes, and Ansible.
   
-- **Cloud Infrastructure Automation**: [Project Link](#)
+- **Cloud Infrastructure Automation**: [Project Link](https://github.com/PranatPattankude/terraform-project.git)
   - Automated the provisioning of cloud infrastructure using Terraform and AWS.
 
 - **Network Monitoring Tool**: [Project Link](#)
