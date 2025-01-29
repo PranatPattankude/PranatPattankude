@@ -11,14 +11,12 @@ Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Admi
  
 ## 🚀 Projects
 
-- **CI/CD Pipeline Setup**: [Project Link](#)
-  - Built a complete CI/CD pipeline using Jenkins, Git, Docker, Kubernetes, and Ansible.
+- **CI/CD Pipeline Setup**: [Project Link](https://github.com/PranatPattankude/HTML-CICD-Project.git)
+  - Built a complete CI/CD pipeline using Jenkins, Git, Docker.
   
 - **Cloud Infrastructure Automation**: [Project Link](https://github.com/PranatPattankude/terraform-project.git)
   - Automated the provisioning of cloud infrastructure using Terraform and AWS.
 
-- **Network Monitoring Tool**: [Project Link](#)
-  - Developed a tool to monitor network devices and send alerts based on thresholds.
 
 ## 🌱 Currently Learning
 
@@ -39,7 +37,7 @@ Welcome to my GitHub profile! I am a passionate **Cloud Engineer**, **Linux Admi
 
 
 
-## 📊 Activity
+## 📊 GitHub Activity
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranatpattankude&show_icons=true&locale=en&layout=compact" alt="pranatpattankude" /></p>
 
